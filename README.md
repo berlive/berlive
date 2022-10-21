@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @berlive
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Berkehan
+- 👀 I’m interested in neuroscience
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me berkehan@pm.me
 
 <!---
 berlive/berlive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
